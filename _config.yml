@@ -26,7 +26,7 @@ author:
   name             : "Max Emerick"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at UC Santa Barbara"
-  location         : "Goleta, CA"
+  location         : "Santa Barbara, CA"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "memerick@ucsb.edu" 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/max-emerick/"
+  linkedin         : "max-emerick"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
