@@ -6,5 +6,5 @@ redirect_from:
   - /curriculum_vitae.html
 ---
 
-You can download my CV in PDF form [here](../files/curriculum_vitae).
+You can download my CV in PDF form [here](../files/curriculum_vitae.pdf).
 
