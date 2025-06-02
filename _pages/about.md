@@ -31,7 +31,7 @@ Oct 2024: I have been working with several other students to set up a new depart
 
 Sep 2024: This quarter, I will be developing and instructing ME 500, a brand-new TA training course for the department ([syllabus](../files/ME_500_Syllabus.pdf)).
 
-Aug 2024: I gave a talk at the 26th International Symposium on Mathematical Theory of Networks and Systems titled "Optimal Control of Distributions in Wasserstein Space" ([slides](../files/mtns_slides.pdf)).
+Aug 2024: I gave a talk at the 26th International Symposium on Mathematical Theory of Networks and Systems titled "Optimal Control of Distributions in Wasserstein Space" ([slides](../files/MTNS_slides.pdf)).
 
 July 2024: We just submitted a new paper, titled "Optimal Assignment and Motion Control in Two-class Continuum Swarms", to the IEEE Transactions on Control of Network Systems ([preprint](https://arxiv.org/abs/2407.18159)).
 
