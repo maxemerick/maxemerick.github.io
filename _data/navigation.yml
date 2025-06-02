@@ -13,6 +13,9 @@ main:
     
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Curriculum Vitae"
+    url: /curriculum_vitae/
     
   - title: "Miscellaneous"
     url: /miscellaneous/
