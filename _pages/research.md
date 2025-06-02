@@ -7,9 +7,9 @@ redirect_from:
   - /research.html
 ---
 
-My current research focuses on xxx
+My current research mainly centers around mathematical methods for control of density-based systems. These could be densities of particles immersed in a fluid, probability densities arising from stochastic processes, or density approximations of very-large-scale systems. Analyzing and manipulating these sorts of systems is challenging because they have an infinite (or near-infinite) number of ways that they can move in. I develop mathematical methods that leverage patterns in these systems to make them more tractable to work with.
 
-Below is a short description of research projects I have worked on. Publications are listed under the project they are associated with. All publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=CN7oYBQAAAAJ&hl=en).
+Below is a short description of research projects I have going on. Publications are listed under the project they are associated with. All publications can be found on my [Google Scholar](https://scholar.google.com/citations?user=CN7oYBQAAAAJ&hl=en).
 
 
 Tracking Control in Wasserstein Space
