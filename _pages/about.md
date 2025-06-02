@@ -7,21 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate at the Univeristy of California Santa Barbara specializing in dyanical systems, control theory, and applied mathematics. My current research focuses on optimal control of density-based systems, with applications in fluids, stochastics, and swarm robotics.
+I am a PhD candidate at the Univeristy of California Santa Barbara specializing in dynamical systems, control theory, and applied mathematics. My current research focuses on optimal control of density-based systems, with applications in fluid and stochastic systems and swarm robotics.
 
 I obtained my BS in Mechanical Engineering from California Polytechnic State Univeristy San Luis Obispo in 2020. During this time, I worked in the Flight Test Data System (FTDS) Lab under the supervision of [Dr. Russel Westphal](https://me.calpoly.edu/faculty/rvwestph/). I obtained my MS in Mechanical Engineering from the University of California Santa Barbara in 2022 in the Dynamics and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/).
 
-I have completed industry internships with Tesla in Fremont, CA, and Panasonic Avionics Corporation in Bothell, WA.
+I have completed industry internships both with Tesla in Fremont, CA, and with Panasonic Avionics in Bothell, WA.
 
 
 
-Recent Updates
+Recent News
 ------
-May 2025: Won Outstanding TA award. See news article (here).
+May 2025: I'm excited to share that I just won our department's Outstanding Teaching Assistant Award. News article [here](link).
 
-Mar 2025: We just submitted a new paper "Incompressible Optimal Transport and Applications in Fluid Mixing". Read the preprint (here).
+Mar 2025: We just submitted a new paper, titled "Incompressible Optimal Transport and Applications in Fluid Mixing", to the 64th IEEE Conference on Decision and Control. Preprint available [here](https://arxiv.org/abs/2504.01109).
 
-Dec 2024: I gave a talk at the 62nd IEEE Conference on Decision and Control titled "Causal Tracking of Distributions in Wasserstein Space: A Model Predictive Control Scheme". Slides available (here).
+Dec 2024: I presented our paper "Causal Tracking of Distributions in Wasserstein Space: A Model Predictive Control Scheme" at the 63rd IEEE Conference on Decision and Control. Slides available [here](../files/CDC_24_slides.pdf).
 
 Nov 2024: I gave a talk at the 44th Southern California Control Workshop titled "Tracking Control in the Wasserstein Space". Slides available (here).
 
@@ -49,7 +49,7 @@ Mar 2023: We just submitted a new paper titled "Continuum Swarm Tracking Control
 
 Sep 2022: I just graduated with my MS in Mechanical Engineering and will be continuing on to do PhD in same Lab.
 
-July 2022: I gave a talk at the 9th IFAC Conference on Networked Systems titled "Optimal Combined Motion and Assignments with Continuum Models". Slides available (here). The corresponding paper (available here) won the IFAC Young Author Award.
+July 2022: I gave a talk at the 9th IFAC Conference on Networked Systems titled "Optimal Combined Motion and Assignments with Continuum Models". Slides available (here) and recording (here). The corresponding paper (available here) won the IFAC Young Author Award.
 
 Feb 2022: I just submitted my first paper, titled "Optimal Combined Motion and Assignments with Continuum Models", to the 9th IFAC Conference on Networked Systems.
 
