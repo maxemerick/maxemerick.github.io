@@ -9,11 +9,10 @@ redirect_from:
 
 I am currently a PhD candidate at the Univeristy of California Santa Barbara specializing in dyanical systems, control theory, and applied mathematics. My current research focuses on optimal control of density-based systems, with applications in fluids, stochastics, and swarm robotics.
 
-I obtained my BS in Mechanical Engineering from California Polytechnic State Univeristy San Luis Obispo. During this time, I worked in the Flight Test Data System (FTDS) Lab under the supervision Dr. Russel Westphal. I obtained my MS in Mechanical Engineering from the University of California Santa Barbara in the Dynamics and Controls Lab under the supervision of Dr. Bassam Bamieh.
+I obtained my BS in Mechanical Engineering from California Polytechnic State Univeristy San Luis Obispo in 2020. During this time, I worked in the Flight Test Data System (FTDS) Lab under the supervision of [Dr. Russel Westphal](https://me.calpoly.edu/faculty/rvwestph/). I obtained my MS in Mechanical Engineering from the University of California Santa Barbara in 2022 in the Dynamics and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/).
 
-I have done industry internships with Tesla in Fremont, CA, and Panasonic Avionics Corporation in Bothell, WA.
+I have completed industry internships with Tesla in Fremont, CA, and Panasonic Avionics Corporation in Bothell, WA.
 
-Need to add links
 
 
 Recent Updates
