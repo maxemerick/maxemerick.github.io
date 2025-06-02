@@ -21,7 +21,7 @@ Recent News
 ------
 May 2025: I'm excited to share that I just won our department's Outstanding Teaching Assistant Award ([news article](link))!
 
-Mar 2025: We just submitted a new paper, titled "Incompressible Optimal Transport and Applications in Fluid Mixing", to the 64th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2504.01109).
+Mar 2025: We just submitted a new paper, titled "Incompressible Optimal Transport and Applications in Fluid Mixing", to the 64th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2504.01109)).
 
 Dec 2024: I presented our paper "Causal Tracking of Distributions in Wasserstein Space: A Model Predictive Control Scheme" at the 63rd IEEE Conference on Decision and Control ([slides](../files/CDC_24_slides.pdf)).
 
