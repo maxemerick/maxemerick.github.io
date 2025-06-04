@@ -15,6 +15,7 @@ Below is a list of courses I have recently taught or TA'd for.
 
 ME 500: TA Training Seminar (Fall 2024)
 ----------
+This 
 
 Developed curriculum, taught as instructor of record (12 students)
 
