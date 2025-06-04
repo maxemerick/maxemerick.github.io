@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at UC Santa Barbara"
   location         : "Santa Barbara, CA"
-  employer         : "test"
-  uri              : "https://me.ucsb.edu/people/max-emerick"
+  employer         : #"test"
+  uri              : #"https://me.ucsb.edu/people/max-emerick"
   email            : "memerick@ucsb.edu" 
 
   # Academic websites
