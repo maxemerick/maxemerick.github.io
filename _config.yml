@@ -27,16 +27,16 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at UC Santa Barbara"
   location         : "Santa Barbara, CA"
-  employer         : #"Red Brick University"
+  employer         : "https://me.ucsb.edu/people/max-emerick"
   uri              : # URL
   email            : "memerick@ucsb.edu" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/a/emerick_m_1.html"
   googlescholar    : "https://scholar.google.com/citations?user=CN7oYBQAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0000-4774-1007"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
