@@ -13,11 +13,7 @@ Below is a short description of current and past research projects. Publications
 
 Tracking Control in Wasserstein Space
 ----------
-Explain tracking control
-
-Explain Wasserstein space
-
-Explain applications
+In many settings in swarm robotics, it is desirable that a swarm of robots continuously "track" (i.e. follow) a given entity as it changes. For example, data collection robots may need to track points-of-interest as they move around, fire-fighting drones may need to track a fire as it evolves, and fleets of autonomous taxis may need to track "rider demand" as it shifts throughout the day. One natural setting in which to investigate this behavior is the so-called "Wasserstein space" of optimal transport theory, which is able to effectively capture spatial discrepancies between swarm and target densities. This project aims to understand efficient motion and tracking control in this space, and use this understanding to develop predictive models, numerical algorithms, and control schemes.
 
 Read more (here)
 
