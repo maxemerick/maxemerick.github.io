@@ -14,11 +14,11 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /curriculum_vitae/
     
-  - title: "Miscellaneous"
-    url: /miscellaneous/
+  #- title: "Miscellaneous"
+  #  url: /miscellaneous/
     
 #  - title: "Publications"
 #    url: /publications/
