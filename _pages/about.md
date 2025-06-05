@@ -15,7 +15,7 @@ I have also completed industry internships with Panasonic Avionics in 2017 and T
 
 In my free time, I enjoy rock climbing, surfing, mountain biking, backpacking, traveling, guitar, music, and philosophy.
 
-$$ \int x^2 $$
+$$ ~ $$
 
 
 Recent News
