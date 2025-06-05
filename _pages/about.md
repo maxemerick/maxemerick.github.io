@@ -19,7 +19,7 @@ $$ ~ $$
 
 
 Recent News
-==========
+----------
 **May 2025:** I received our department's Outstanding Teaching Assistant Award ([news article](link)).
 
 **Mar 2025:** We just submitted a new paper, titled "Incompressible Optimal Transport and Applications in Fluid Mixing", to the 64th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2504.01109)).
