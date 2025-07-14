@@ -36,7 +36,7 @@ Recent News
 
 **July 2024:** We submitted a new paper, titled "Optimal Assignment and Motion Control in Two-class Continuum Swarms", to the IEEE Transactions on Control of Network Systems ([preprint](https://arxiv.org/abs/2407.18159)).
 
-**Jun 2024:** I received the National Defense Science and Engineering Graduate (NDSEG) Fellowship ([news article](https://engineering.ucsb.edu/news/four-coe-graduate-students-win-prestigious-national-defense-fellowships).
+**Jun 2024:** I received the National Defense Science and Engineering Graduate (NDSEG) Fellowship ([news article](https://engineering.ucsb.edu/news/four-coe-graduate-students-win-prestigious-national-defense-fellowships)).
 
 **Mar 2024:** We submitted a new paper, titled "Causal Tracking of Distributions in Wasserstein Space: A Model-Predictive Control Scheme", to the 63rd IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2403.15702)).
 
