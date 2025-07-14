@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Testing
-
 I am a PhD candidate at the Univeristy of California Santa Barbara specializing in dynamical systems, control theory, and applied mathematics. My current research focuses on optimal control of density-based systems, with applications in fluid and stochastic systems and swarm robotics.
 
 I received my BS in Mechanical Engineering from California Polytechnic State Univeristy in 2020. During this time, I worked in the Boundary Layer Data System (BLDS) Lab under the supervision of [Dr. Russel Westphal](https://me.calpoly.edu/faculty/rvwestph/). I received my MS in Mechanical Engineering from the University of California Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my PhD under Dr. Bamieh in 2022.
 
 I have also completed industry internships with Panasonic Avionics in 2017 and Tesla in 2021. I received the National Defense Science and Engineering Graduate (NDSEG) Fellowship in 2024.
 
-In my free time, I enjoy rock climbing, surfing, mountain biking, backpacking, traveling, guitar, music, and philosophy.
+In my free time, I enjoy rock climbing, surfing, mountain biking, backpacking, traveling, music, and philosophy.
 
 $$ ~ $$
 
