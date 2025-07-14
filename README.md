@@ -1,1 +1,1 @@
-Forked from Academic Pages
+Max Emerick's personal website.
