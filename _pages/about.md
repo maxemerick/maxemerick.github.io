@@ -22,7 +22,7 @@ Recent News
 ----------
 **May 2025:** I received our department's Outstanding Teaching Assistant Award ([news article](https://engineering.ucsb.edu/news/class-2025-selects-teaching-assistants-year)).
 
-**Mar 2025:** We just submitted a new paper, titled "Incompressible Optimal Transport and Applications in Fluid Mixing", to the 64th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2504.01109)).
+**Mar 2025:** We submitted a new paper, titled "Incompressible Optimal Transport and Applications in Fluid Mixing", to the 64th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2504.01109)).
 
 **Dec 2024:** I presented our paper "Causal Tracking of Distributions in Wasserstein Space: A Model Predictive Control Scheme" at the 63rd IEEE Conference on Decision and Control ([slides](../files/CDC_24_slides.pdf)).
 
@@ -34,11 +34,11 @@ Recent News
 
 **Aug 2024:** I presented a talk at the 26th International Symposium on Mathematical Theory of Networks and Systems titled "Optimal Control of Distributions in Wasserstein Space" ([slides](../files/MTNS_slides.pdf)).
 
-**July 2024:** We just submitted a new paper, titled "Optimal Assignment and Motion Control in Two-class Continuum Swarms", to the IEEE Transactions on Control of Network Systems ([preprint](https://arxiv.org/abs/2407.18159)).
+**July 2024:** We submitted a new paper, titled "Optimal Assignment and Motion Control in Two-class Continuum Swarms", to the IEEE Transactions on Control of Network Systems ([preprint](https://arxiv.org/abs/2407.18159)).
 
 **Jun 2024:** I received the National Defense Science and Engineering Graduate (NDSEG) Fellowship ([news article](https://engineering.ucsb.edu/news/four-coe-graduate-students-win-prestigious-national-defense-fellowships).
 
-**Mar 2024:** We just submitted a new paper, titled "Causal Tracking of Distributions in Wasserstein Space: A Model-Predictive Control Scheme", to the 63rd IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2403.15702)).
+**Mar 2024:** We submitted a new paper, titled "Causal Tracking of Distributions in Wasserstein Space: A Model-Predictive Control Scheme", to the 63rd IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2403.15702)).
 
 **Mar 2024:** I passed my candidacy exam and advanced to candidate status.
 
