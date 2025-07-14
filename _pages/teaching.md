@@ -6,9 +6,9 @@ redirect_from:
   - /teaching.html
 ---
 
-I have over ten years of experience teaching in various forms: as a TA (both at Cal Poly and at UCSB), as an instructor, as a personal tutor, and as a swim instructor for children of all ages and abilities. Over the years, I have taught numerous subjects, including vibrations, controls, mechatronics, robotics, dynamical systems, nonlinear differential equations, electricity and magnetism, mechanics of materials, manufacturing, and design of scientific apparatus. In the Fall of 2024, I had the opportunity to develop and teach (as instructor of record) ME 500, a new training course for TA's in the UCSB Mechanical Engineering Department.
+I have over ten years of experience teaching in various forms: as a TA (both at Cal Poly and at UCSB), as an instructor, as a personal tutor, and as a swim instructor for children of all ages and abilities. Over the years, I have taught numerous subjects, including vibrations, controls, mechatronics, robotics, dynamical systems, nonlinear dynamics, electricity and magnetism, mechanics of materials, manufacturing, and design of scientific apparatus. In the Fall of 2024, I had the opportunity to develop and teach (as instructor of record) ME 500, a new training course for TA's in the UCSB Mechanical Engineering Department.
 
-My academic teaching largely emphasizes what I view as the "keys to the kingdom" of science: curiosity, creative problem-solving, self-directed learning, agency over the subject matter, and a view of science as a model and tool for understanding and manipulating the world around us. I try to connect the material that students are learning to real-world problems, lead them to discover ideas for themselves, and encourage them to ask questions as well as to try and answer questions for themselves. I feel that especially in the sciences, classes are too often taught in a rigid way where a subject is treated as absolute truth with a set of facts which students are expected to memorize. For students who are used to learning in this more traditional style, I beleive that this different approach can be revelatory and can fundamentally change the way that they relate to science, research, and education.
+My academic teaching revolves around what I view as the "keys to the kingdom" of science: curiosity, creative problem-solving, self-directed learning, agency over the subject matter, and a view of science as a model and tool for understanding and manipulating the world around us. I try to connect the material that students are learning to real-world problems, lead them to discover ideas for themselves, and encourage them to ask questions as well as to try and answer questions for themselves. I feel that especially in the sciences, classes are too often taught in a rigid way where a subject is treated as absolute truth with a set of facts which students are expected to memorize. For students who are used to learning in this more traditional style, I beleive that this different approach can be revelatory and can fundamentally change the way that they relate to science, research, and education.
 
 Below is a list of courses I have recently taught or TA'd for.
 
@@ -18,7 +18,7 @@ ME 500: TA Training Seminar (Fall 2024)
 This course covers the fundamentals of TAing, job responsibilities, classroom technology, grading, preparing for lab and discussion sections, and college-level pedagogy. This is the first time this course has run. As a course instructor, I developed the curriculum myself and led weekly classes of ~10 students.
 
 
-ME 169: Nonlinear Phenomena (Spring 2024)
+ME 169: Nonlinear Dynamics (Spring 2024)
 ------
 This course covers nonlinear differential equations and dynamical systems, state-space descriptions, flows, bifurcations, chaos, fractals, and strange attractors. As a section instructor, I graded assignments and led weekly discussion sections of ~25 students.
 
