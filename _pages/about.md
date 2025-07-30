@@ -20,6 +20,8 @@ $$ ~ $$
 
 Recent News
 ----------
+**Jul 2025:** I presented a talk at the 2025 SIAM Conference on Control and Its Applications titled "Tracking Control in the Wasserstein Space" ([slides](../files/SIAM_25_slides.pdf)).
+
 **May 2025:** I received our department's Outstanding Teaching Assistant Award ([news article](https://engineering.ucsb.edu/news/class-2025-selects-teaching-assistants-year)).
 
 **Mar 2025:** We submitted a new paper, titled "Incompressible Optimal Transport and Applications in Fluid Mixing", to the 64th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2504.01109)).
