@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Univeristy of California, Santa Barbara specializing in dynamical systems, control theory, and applied mathematics. My current research focuses on the analysis and control of continuum models for large-scale systems, with applications in fluid systems, ensemble systems, and swarm robotics.
+I am a Ph.D. candidate at the Univeristy of California, Santa Barbara specializing in dynamical systems, control theory, and applied mathematics. My current research focuses on the analysis and control of continuum models for large-scale systems, with applications in fluid systems, ensemble systems, and swarm robotics.
 
 I received my B.S. in Mechanical Engineering with a Minor in Mathematics from California Polytechnic State Univeristy, San Luis Obispo in 2020. During this time, I worked in the Boundary Layer Data System (BLDS) Lab under the supervision of [Dr. Russel Westphal](https://me.calpoly.edu/faculty/rvwestph/). I received my M.S. in Mechanical Engineering from the University of California, Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my Ph.D. under Dr. Bamieh in 2022.
 
