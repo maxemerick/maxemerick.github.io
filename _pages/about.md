@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate at the Univeristy of California Santa Barbara specializing in dynamical systems, control theory, and applied mathematics. My current research focuses on optimal control of density-based systems, with applications in fluid and stochastic systems and swarm robotics.
+I am a PhD candidate at the Univeristy of California, Santa Barbara specializing in dynamical systems, control theory, and applied mathematics. My current research focuses on the analysis and control of continuum models for large-scale systems, with applications in fluid systems, ensemble systems, and swarm robotics.
 
-I received my BS in Mechanical Engineering from California Polytechnic State Univeristy in 2020. During this time, I worked in the Boundary Layer Data System (BLDS) Lab under the supervision of [Dr. Russel Westphal](https://me.calpoly.edu/faculty/rvwestph/). I received my MS in Mechanical Engineering from the University of California Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my PhD under Dr. Bamieh in 2022.
+I received my B.S. in Mechanical Engineering with a Minor in Mathematics from California Polytechnic State Univeristy, San Luis Obispo in 2020. During this time, I worked in the Boundary Layer Data System (BLDS) Lab under the supervision of [Dr. Russel Westphal](https://me.calpoly.edu/faculty/rvwestph/). I received my M.S. in Mechanical Engineering from the University of California, Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my Ph.D. under Dr. Bamieh in 2022.
 
 I have also completed industry internships with Panasonic Avionics in 2017 and Tesla in 2021. I received the National Defense Science and Engineering Graduate (NDSEG) Fellowship in 2024.
 
@@ -18,8 +18,12 @@ In my free time, I enjoy rock climbing, surfing, mountain biking, backpacking, t
 $$ ~ $$
 
 
-Recent News
+News & Preprints
 ----------
+**Dec 2025:** I presented our paper "Incompressible Optimal Transport and Applications in Fluid Mixing" at the 64th IEEE Conference on Decision and Control ([slides](../files/CDC_25_slides.pdf)).
+
+**Dec 2025:** We are working on a new paper, titled "Classification of Limit Solutions of a Mean-Field Oscillator Ising Model" ([preprint](../files/OIM_paper.pdf))
+
 **Jul 2025:** I presented a talk at the 2025 SIAM Conference on Control and Its Applications titled "Tracking Control in the Wasserstein Space" ([slides](../files/SIAM_25_slides.pdf)).
 
 **May 2025:** I received our department's Outstanding Teaching Assistant Award ([news article](https://engineering.ucsb.edu/news/class-2025-selects-teaching-assistants-year)).
@@ -50,9 +54,9 @@ Recent News
 
 **Apr 2023:** I accepted the position of Lead Teaching Assistant for the UCSB Mechanical Engineering Department. In this role, I will be helping develop and administer a new TA training program for our graduate students.
 
-**Mar 2023:** We submitted a new paper, titled "Continuum Swarm Tracking Control: A Geometric Perspective in Wasserstein Space" to the 62nd IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2303.15638)).
+**Mar 2023:** We submitted a new paper, titled "Continuum Swarm Tracking Control: A Geometric Perspective in Wasserstein Space", to the 62nd IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2303.15638)).
 
-**Sep 2022:** I received my MS in Mechanical Engineering from the University of California Santa Barbara and will be starting my PhD in the same lab.
+**Sep 2022:** I received my MS in Mechanical Engineering from the University of California, Santa Barbara and will be starting my PhD in the same lab.
 
 **July 2022:** I presented our paper "Optimal Combined Motion and Assignments with Continuum Models" at the 9th IFAC Conference on Networked Systems ([slides](../files/NECSYS_slides.pdf),[recording](https://video.ethz.ch/events/2022/necsys/0aaec48f-46e8-423c-b84b-69c6fbf37f81.html)). The [paper](https://www.sciencedirect.com/science/article/pii/S240589632200636X) wwas awarded the IFAC Young Author Award at the conference.
 
