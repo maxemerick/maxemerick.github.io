@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the Univeristy of California, Santa Barbara specializing in dynamical systems, control theory, and applied mathematics. My current research focuses on the analysis and control of continuum models for large-scale systems, with applications in fluid systems, ensemble systems, and swarm robotics.
+I am a Ph.D. candidate at the University of California, Santa Barbara and NDSEG Graduate Fellow, specializing in dynamical systems, control theory, and applied mathematics. My research focuses on developing mathematical tools for the modeling, analysis, and control of continuum models of large-scale systems, drawing from the areas of partial differential equations, optimal control, optimal transport, and geometric/variational methods. I have applied these tools to problems in various domains, including swarm robotics, fluid mixing, and coupled-oscillator networks. (See my research page for more.)
 
-I received my B.S. in Mechanical Engineering with a Minor in Mathematics from California Polytechnic State Univeristy, San Luis Obispo in 2020. During this time, I worked in the Boundary Layer Data System (BLDS) Lab under the supervision of [Dr. Russel Westphal](https://me.calpoly.edu/faculty/rvwestph/). I received my M.S. in Mechanical Engineering from the University of California, Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my Ph.D. under Dr. Bamieh in 2022.
+I received my B.S. in Mechanical Engineering with a Minor in Mathematics from California Polytechnic State University, San Luis Obispo in 2020. During this time, I worked in the Flight Test Data System Lab under the supervision of Dr. Russell Westphal. I received my M.S. in Mechanical Engineering from the University of California, Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my Ph.D. under Dr. Bamieh in 2022.
 
-I have also completed industry internships with Panasonic Avionics in 2017 and Tesla in 2021. I received the National Defense Science and Engineering Graduate (NDSEG) Fellowship in 2024.
+I completed industry internships with Panasonic Avionics in 2017 and Tesla in 2021. I also have extensive teaching experience at UCSB, including as instructor of record and as Lead TA for the Mechanical Engineering Department. (See my teaching page for more.)
+
+I am currently seeking tenure-track faculty and postdoctoral research positions in dynamical systems and control or applied mathematics.
 
 In my free time, I enjoy rock climbing, surfing, mountain biking, backpacking, traveling, music, and philosophy.
 
@@ -20,9 +22,11 @@ $$ ~ $$
 
 News & Preprints
 ----------
-**Dec 2025:** I presented our paper "Incompressible Optimal Transport and Applications in Fluid Mixing" at the 64th IEEE Conference on Decision and Control ([slides](../files/CDC_25_slides.pdf)).
+**Aug 2026** I presented a talk at the 27th International Symposium on Mathematical Theory of Networks and Systems titled "Wasserstein Gradient Flow Structure in Mean-Field Oscillator Ising Machines" ([slides](../files/MTNS_26_slides.pdf)).
 
-**Dec 2025:** We are working on a new paper, titled "Classification of Limit Solutions of a Mean-Field Oscillator Ising Model" ([preprint](../files/OIM_paper.pdf))
+**Mar 2026** We submitted a new paper, titled "On Distributed Control of Continuum Swarms: Local Controllers as Differential Operators", to the 65th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2604.25187)).
+
+**Dec 2025:** I presented our paper "Incompressible Optimal Transport and Applications in Fluid Mixing" at the 64th IEEE Conference on Decision and Control ([slides](../files/CDC_25_slides.pdf)).
 
 **Jul 2025:** I presented a talk at the 2025 SIAM Conference on Control and Its Applications titled "Tracking Control in the Wasserstein Space" ([slides](../files/SIAM_25_slides.pdf)).
 
