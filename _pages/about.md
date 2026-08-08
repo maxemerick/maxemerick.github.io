@@ -11,7 +11,7 @@ I am a Ph.D. candidate at the University of California, Santa Barbara and NDSEG 
 
 I received my B.S. in Mechanical Engineering with a Minor in Mathematics from California Polytechnic State University, San Luis Obispo in 2020. During this time, I worked in the Flight Test Data System Lab under the supervision of Dr. Russell Westphal. I received my M.S. in Mechanical Engineering from the University of California, Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my Ph.D. under Dr. Bamieh in 2022.
 
-I completed industry internships with Panasonic Avionics in 2017 and Tesla in 2021. I also have extensive teaching experience at UCSB, including as instructor of record and as Lead TA for the Mechanical Engineering Department. (See my [teaching page](/teaching/) for more.)
+I completed industry internships with Panasonic Avionics in 2017 and Tesla in 2021. I also have extensive teaching experience at UCSB, including as instructor of record and department Lead TA. (See my [teaching page](/teaching/) for more.)
 
 I am currently seeking tenure-track faculty and postdoctoral research positions in dynamical systems and control or applied mathematics.
 
