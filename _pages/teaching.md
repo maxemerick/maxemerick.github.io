@@ -6,9 +6,11 @@ redirect_from:
   - /teaching.html
 ---
 
-I have over ten years of experience teaching in various forms: as a TA (both at Cal Poly and at UCSB), as an instructor, as a personal tutor, and as a swim instructor for children of all ages and abilities. Over the years, I have taught numerous subjects, including vibrations, controls, mechatronics, robotics, dynamical systems, nonlinear dynamics, electricity and magnetism, mechanics of materials, manufacturing, and design of scientific apparatus. In the Fall of 2024, I had the opportunity to develop and teach (as instructor of record) ME 500, a new training course for TA's in the UCSB Mechanical Engineering Department.
+I have nearly fifteen years of experience teaching in various forms: as a TA (both at Cal Poly and at UCSB), as instructor of record, as department Lead TA, as a personal tutor, and as a swim instructor for children of all ages and abilities. Over the years, I have taught numerous subjects, including vibrations, controls, mechatronics, robotics, dynamical systems, nonlinear dynamics, electricity and magnetism, and design for test automation. From Spring 2023 to Spring 2025, I served as the UCSB Mechanical Engineering Department's Lead TA, mentoring incoming graduate students and serving as point of contact for the department's 70+ TA's. Within this role, I created and taught (as instructor of record) ME 500, a new training course for department TA's.
 
-My academic teaching revolves around what I view as the "keys to the kingdom" of science: curiosity, creative problem-solving, self-directed learning, agency over the subject matter, and a view of science as a model and tool for understanding and manipulating the world around us. I try to connect the material that students are learning to real-world problems, lead them to discover ideas for themselves, and encourage them to ask questions as well as to try and answer questions for themselves. I feel that especially in the sciences, classes are too often taught in a rigid way where a subject is treated as absolute truth with a set of facts which students are expected to memorize. For students who are used to learning in this more traditional style, I beleive that this different approach can be revelatory and can fundamentally change the way that they relate to science, research, and education.
+My academic teaching emphasizes what I view as the "keys to the kingdom" of science: curiosity, creative problem-solving, self-directed learning, agency over the subject matter, and a view of science as a model and tool for understanding and manipulating the world around us. I try to connect the material that students are learning to real-world problems, lead them to discover ideas for themselves, and encourage them to ask questions as well as to try and answer those questions for themselves. I feel that especially in the sciences, classes are too often taught in a rigid way where a subject is treated as absolute truth with a set of facts which students are expected to memorize. For students who are used to learning in this more traditional style, I believe that this different approach can be revelatory and can fundamentally change the way that they relate to science, research, and education.
+
+I have been recognized with both the UCSB Department of Mechanical Engineering's Best TA Award (2023, faculty-nominated) and Outstanding TA Award (2025, student-nominated).
 
 Below is a list of courses I have recently taught or TA'd for.
 
@@ -25,17 +27,17 @@ This course covers nonlinear differential equations and dynamical systems, state
 
 ME 163: Vibrations (Winter 2024)
 ------
-This course covers vibrations in mechnical and electrical systems, analysis, dynamics, feedback control, matrix methods, Lagrangian mechanics, Laplace transforms, transfer functions, and system response. As a TA, I graded assignments and led weekly office hours of ~10 students.
+This course covers vibrations in mechanical and electrical systems, analysis, dynamics, feedback control, matrix methods, Lagrangian mechanics, Laplace transforms, transfer functions, and system response. As a TA, I graded assignments and led weekly office hours of ~10 students.
 
 
 ME 103: System Dynamics (Fall 2023)
 ------------------
-This course covers equations of motion for mechanical, electrical, thermal, fluid, and control systems, introduces block diagram algebra, feedback, interconnections, laplace transforms, transfer functions, and stability. This was the first time this course has run. As a TA, I wrote and graded homework assignments and led weekly office hours of ~15 students.
+This course covers equations of motion for mechanical, electrical, thermal, fluid, and control systems, introduces block diagram algebra, feedback, interconnections, Laplace transforms, transfer functions, and stability. This was the first time this course has run. As a TA, I wrote and graded homework assignments and led weekly office hours of ~15 students.
 
 
 ME 155A: Control Systems Design (Spring 2023)
 --------
-This course covers dynamics and feedback, block diagrams, interconnections, laplace transforms, transfer functions, state-space descriptions, PID controller design, and system response. As a TA, I graded assignments and led weekly office hours of 20+ students.
+This course covers dynamics and feedback, block diagrams, interconnections, Laplace transforms, transfer functions, state-space descriptions, PID controller design, and system response. As a TA, I graded assignments and led weekly office hours of 20+ students.
 
 
 ME 125KF: Design of Scientific Apparatus
@@ -50,5 +52,5 @@ This course covers the design, programming, and testing of mobile robots, interf
 
 ME 104: Mechatronics (Spring 2022)
 ----------
-This course covers the interfacting of mechanical and electrical systems with computers and control, sensors, actuators, measurement, A/D and D/A conversion, and signal processing. As a lab instructor, I led weekly lab sections of ~25 students.
+This course covers the interfacing of mechanical and electrical systems with computers and control, sensors, actuators, measurement, A/D and D/A conversion, and signal processing. As a lab instructor, I led weekly lab sections of ~25 students.
 
