@@ -18,7 +18,7 @@ Below is a short description of my current and past research projects. Publicati
 
 Distributed Control of Continuum Systems
 ----------
-Description here
+Under construction...
 
 
 "On Distributed Control of Continuum Swarms: Local Controllers as Differential Operators,"
@@ -60,7 +60,7 @@ In many engineering applications it is important to be able to mix two fluids ef
 
 Mean-Field Oscillator Ising Machines
 ----------
-Description here
+Under construction...
 
 
 "Mean-Field Oscillator Ising Machines: Gradient Flows and Classification of Limit Solutions,"
