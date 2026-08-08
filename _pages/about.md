@@ -7,17 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the University of California, Santa Barbara and NDSEG Graduate Fellow, specializing in dynamical systems, control theory, and applied mathematics. My research focuses on developing mathematical tools for the modeling, analysis, and control of continuum models of large-scale systems, drawing from the areas of partial differential equations, optimal control, optimal transport, and geometric/variational methods. I have applied these tools to problems in various domains, including swarm robotics, fluid mixing, and coupled-oscillator networks. (See my research page for more.)
+I am a Ph.D. candidate at the University of California, Santa Barbara and NDSEG Graduate Fellow, specializing in dynamical systems, control theory, and applied mathematics. My research focuses on developing mathematical tools for the modeling, analysis, and control of continuum models of large-scale systems, drawing from the areas of partial differential equations, optimal control, optimal transport, and geometric/variational methods. I have applied these tools to problems in various domains, including swarm robotics, fluid mixing, and coupled-oscillator networks. (See my [research page](/research/) page for more.)
 
 I received my B.S. in Mechanical Engineering with a Minor in Mathematics from California Polytechnic State University, San Luis Obispo in 2020. During this time, I worked in the Flight Test Data System Lab under the supervision of Dr. Russell Westphal. I received my M.S. in Mechanical Engineering from the University of California, Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my Ph.D. under Dr. Bamieh in 2022.
 
-I completed industry internships with Panasonic Avionics in 2017 and Tesla in 2021. I also have extensive teaching experience at UCSB, including as instructor of record and as Lead TA for the Mechanical Engineering Department. (See my teaching page for more.)
+I completed industry internships with Panasonic Avionics in 2017 and Tesla in 2021. I also have extensive teaching experience at UCSB, including as instructor of record and as Lead TA for the Mechanical Engineering Department. (See my [teaching page](/teaching/) page for more.)
 
 I am currently seeking tenure-track faculty and postdoctoral research positions in dynamical systems and control or applied mathematics.
 
 In my free time, I enjoy rock climbing, surfing, mountain biking, backpacking, traveling, music, and philosophy.
 
-$$ ~ $$
+
 
 
 News & Preprints
@@ -27,6 +27,8 @@ News & Preprints
 **Mar 2026** We submitted a new paper, titled "On Distributed Control of Continuum Swarms: Local Controllers as Differential Operators", to the 65th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2604.25187)).
 
 **Dec 2025:** I presented our paper "Incompressible Optimal Transport and Applications in Fluid Mixing" at the 64th IEEE Conference on Decision and Control ([slides](../files/CDC_25_slides.pdf)).
+
+**Aug 2025** I began serving as a Graduate Fellowship Writing Consultant for the UCSB Mechanical Engineering Department
 
 **Jul 2025:** I presented a talk at the 2025 SIAM Conference on Control and Its Applications titled "Tracking Control in the Wasserstein Space" ([slides](../files/SIAM_25_slides.pdf)).
 
@@ -42,9 +44,9 @@ News & Preprints
 
 **Sep 2024:** This quarter, I will be developing and instructing ME 500, a new TA training course for our department ([syllabus](../files/ME_500_Syllabus.pdf)).
 
-**Aug 2024:** I presented a talk at the 26th International Symposium on Mathematical Theory of Networks and Systems titled "Optimal Control of Distributions in Wasserstein Space" ([slides](../files/MTNS_slides.pdf)).
+**Aug 2024:** I presented a talk at the 26th International Symposium on Mathematical Theory of Networks and Systems titled "Control of Densities in Wasserstein Space" ([slides](../files/MTNS_slides.pdf)).
 
-**July 2024:** We submitted a new paper, titled "Optimal Assignment and Motion Control in Two-class Continuum Swarms", to the IEEE Transactions on Control of Network Systems ([preprint](https://arxiv.org/abs/2407.18159)).
+**Jul 2024:** We submitted a new paper, titled "Optimal Assignment and Motion Control in Two-class Continuum Swarms", to the IEEE Transactions on Control of Network Systems ([preprint](https://arxiv.org/abs/2407.18159)).
 
 **Jun 2024:** I received the National Defense Science and Engineering Graduate (NDSEG) Fellowship ([news article](https://engineering.ucsb.edu/news/four-coe-graduate-students-win-prestigious-national-defense-fellowships)).
 
@@ -62,7 +64,7 @@ News & Preprints
 
 **Sep 2022:** I received my MS in Mechanical Engineering from the University of California, Santa Barbara and will be starting my PhD in the same lab.
 
-**July 2022:** I presented our paper "Optimal Combined Motion and Assignments with Continuum Models" at the 9th IFAC Conference on Networked Systems ([slides](../files/NECSYS_slides.pdf),[recording](https://video.ethz.ch/events/2022/necsys/0aaec48f-46e8-423c-b84b-69c6fbf37f81.html)). The [paper](https://www.sciencedirect.com/science/article/pii/S240589632200636X) wwas awarded the IFAC Young Author Award at the conference.
+**Jul 2022:** I presented our paper "Optimal Combined Motion and Assignments with Continuum Models" at the 9th IFAC Conference on Networked Systems ([slides](../files/NECSYS_slides.pdf),[recording](https://video.ethz.ch/events/2022/necsys/0aaec48f-46e8-423c-b84b-69c6fbf37f81.html)). The [paper](https://www.sciencedirect.com/science/article/pii/S240589632200636X) was awarded the IFAC Young Author Award at the conference.
 
 **Feb 2022:** We submitted a new paper, titled "Optimal Combined Motion and Assignments with Continuum Models", to the 9th IFAC Conference on Networked Systems.
 
