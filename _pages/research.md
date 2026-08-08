@@ -21,7 +21,7 @@ Distributed Control of Continuum Systems
 Under construction...
 
 
-"On Distributed Control of Continuum Swarms: Local Controllers as Differential Operators,"
+"On Distributed Control of Continuum Swarms: Local Controllers as Differential Operators," \
 **M. Emerick**, S. P. Chhatoi, and B. Bamieh. In preparation for submission to IEEE Transactions on Control of Network Systems (available on arXiv).
 
 
@@ -50,7 +50,7 @@ Incompressible Fluid Mixing
 In many engineering applications it is important to be able to mix two fluids efficiently. In combustion engines one needs to mix fuel and air, in chemical process such as polymer production one needs to mix monomers and reactants, and in lab-on-chip applications one needs to mix samples and reagents. While there are many heuristics for what makes a flow field good at mixing, we do not have a complete mathematical understanding of this behavior. This project aims to characterize maximally efficient mixing fields, thereby giving us a better mathmatical understanding of mixing and helping us to design machines and protocols which can mix more effectively.
 
 
-"Incompressible Fluid Mixing as Constrained Optimal Transport,"\
+"Incompressible Fluid Mixing as Constrained Optimal Transport," \
 **M. Emerick**, J. Igraszek, and B. Bamieh. In preparation for submission to Journal of Nonlinear Science.
 
 "Incompressible Optimal Transport and Applications in Fluid Mixing," \
@@ -63,8 +63,8 @@ Mean-Field Oscillator Ising Machines
 Under construction...
 
 
-"Mean-Field Oscillator Ising Machines: Gradient Flows and Classification of Limit Solutions,"
-B. Bamieh, F. Bullo, M. Emerick, and A. R. Venkatakrishnan. In preparation for submission to SIAM Review (available on arXiv).
+"Mean-Field Oscillator Ising Machines: Gradient Flows and Classification of Limit Solutions," \
+B. Bamieh, F. Bullo, **M. Emerick**, and A. R. Venkatakrishnan. In preparation for submission to SIAM Review (available on arXiv).
 
 
 
