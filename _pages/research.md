@@ -6,9 +6,34 @@ redirect_from:
   - /research.html
 ---
 
-My current research centers around mathematical methods for analysis and control of density-based systems. These could be densities of particles immersed in a fluid, probability densities arising from stochastic processes, or density approximations of very-large-scale systems. Analyzing and manipulating these sorts of systems is challenging because they are typically nonlinear and have an infinite number of degrees of freedom. My research aims to develop mathematical methods which leverage structure in these systems to make their analysis and control more tractable.
+My research focuses on developing mathematical tools for the modeling, analysis, and control of continuum models of large-scale systems.
 
-Below is a short description of current and past research projects. Publications are listed under the project they are associated with. All publications can be found at my [Google Scholar page](https://scholar.google.com/citations?user=CN7oYBQAAAAJ&hl=en).
+Large-scale system are ubiquitous in the modern world: transportation and social networks, power grids, financial markets, biological and artificial neural networks, human and animal populations, robotic swarms, and the Internet of Things, to name a few. These systems play an enormous role in shaping our everyday lives, yet we do not have anything close to a general theory of behavior for these systems. The central challenge is that these systems are simply too large to analyze using classical methodologies. While numerical and data-driven approaches do play an important role, they struggle to provide interpretable, structural insights. This sort of insight is needed -- if not for the analysis or manipulation of these systems -- for their *design*.
+
+One approach to getting a handle on the complexity of these systems is to model them as *continua*, treating them as one continuous medium as opposed to a large collection of individual components. These continuum models provide a more analytically tractable and scale-invariant way to study these systems. My research draws from a wide array of tools in mathematics and physics -- including partial differential equations, optimal control, optimal transport, continuum and statistical mechanics, and geometric/variational methods -- in order to understand these continuum models and provide tools which can be applied towards the design, analysis, and control of real systems.
+
+Below is a short description of my current and past research projects. Publications are listed under the project they are associated with. All publications can be found at my [Google Scholar page](https://scholar.google.com/citations?user=CN7oYBQAAAAJ&hl=en).
+
+
+
+
+I have applied these tools across several domains, including swarm robotics, fluid mixing, and coupled-oscillator networks. 
+
+
+
+Tries to understand the relevant underlying structural feratures
+
+
+
+For example... something about density-based systems
+
+These could be densities of particles immersed in a fluid, probability densities arising from stochastic processes, or density approximations of very-large-scale systems.
+
+
+
+My research aims to develop mathematical methods which leverage structure in these systems to make their analysis and control more tractable.
+
+
 
 
 
