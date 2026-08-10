@@ -28,7 +28,7 @@ News & Preprints
 
 **Dec 2025:** I presented our paper "Incompressible Optimal Transport and Applications in Fluid Mixing" at the 64th IEEE Conference on Decision and Control ([slides](../files/CDC_25_slides.pdf)).
 
-**Aug 2025** I began serving as a Graduate Fellowship Writing Consultant for the UCSB Mechanical Engineering Department
+**Aug 2025** I began serving as a Graduate Fellowship Writing Consultant for the UCSB Mechanical Engineering Department.
 
 **Jul 2025:** I presented a talk at the 2025 SIAM Conference on Control and Its Applications titled "Tracking Control in the Wasserstein Space" ([slides](../files/SIAM_25_slides.pdf)).
 
