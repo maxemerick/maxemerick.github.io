@@ -40,12 +40,12 @@ ME 155A: Control Systems Design (Spring 2023)
 This course covers dynamics and feedback, block diagrams, interconnections, Laplace transforms, transfer functions, state-space descriptions, PID controller design, and system response. As a TA, I graded assignments and led weekly office hours of 20+ students.
 
 
-ME 125KF: Design of Scientific Apparatus
+ME 125KF: Design of Scientific Apparatus (Winter 2023)
 ----------
 This course covers the design and construction of scientific apparatus, mechanical design, fabrication techniques, test automation, measurement, motion control, sensors, actuators, and electronics. As a TA, I graded assignments for ~15 students.
 
 
-ME 179L: Robotics Design Lab (Fall 2023)
+ME 179L: Robotics Design Lab (Fall 2022)
 ----------
 This course covers the design, programming, and testing of mobile robots, interfacing electro-mechanical and computer systems, sensors, actuators, feedback control, and programming in C++. As a lab instructor, I led weekly lab sections of ~20 students.
 
