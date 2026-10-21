@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at the University of California, Santa Barbara and NDSEG Graduate Fellow, specializing in dynamical systems, control theory, and applied mathematics. My research focuses on developing mathematical tools for the modeling, analysis, and control of continuum models of large-scale systems, drawing from the areas of partial differential equations, optimal control, optimal transport, and geometric/variational methods. I have applied these tools to problems in various domains, including swarm robotics, fluid mixing, and coupled-oscillator networks. (See my [research page](/research/) for more.)
+I am a Ph.D. candidate at the University of California, Santa Barbara and NDSEG Graduate Fellow, specializing in dynamical systems, control theory, and applied mathematics. My research focuses on developing mathematical tools for the modeling, analysis, and control of continuum models of large-scale systems, drawing from the areas of partial differential equations, optimal control, optimal transport, and geometric/variational methods. I have applied these tools to problems in various domains, including swarm robotics, fluid mixing, distributed systems, and coupled-oscillator networks. (See my [research page](/research/) for more.)
 
 I received my B.S. in Mechanical Engineering with a Minor in Mathematics from California Polytechnic State University, San Luis Obispo in 2020. During this time, I worked in the Flight Test Data System Lab under the supervision of Dr. Russell Westphal. I received my M.S. in Mechanical Engineering from the University of California, Santa Barbara in 2022, working in the Dynamical Systems and Controls Lab under the supervision of [Dr. Bassam Bamieh](https://sites.engineering.ucsb.edu/~bamieh/). I started my Ph.D. under Dr. Bamieh in 2022.
 
@@ -22,13 +22,19 @@ In my free time, I enjoy rock climbing, surfing, mountain biking, backpacking, t
 
 News & Preprints
 ----------
-**Aug 2026** I presented a talk at the 27th International Symposium on Mathematical Theory of Networks and Systems titled "Wasserstein Gradient Flow Structure in Mean-Field Oscillator Ising Machines" ([slides](../files/MTNS_26_slides.pdf)).
+**Oct 2026:** I presented a talk at the 48th Southern California Control Workshop titled "Mean-Field Oscillator Ising Machines" ([slides](../files/name.pdf)).
 
-**Mar 2026** We submitted a new paper, titled "On Distributed Control of Continuum Swarms: Local Controllers as Differential Operators", to the 65th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2604.25187)).
+**Oct 2026:** We submitted a new paper, titled "Mean-Field Oscillator Ising Machines: Gradient Flows and Classification of Limit Solutions", to the SIAM Journal on Applied Dynamical Systems ([preprint](https://arxiv.org/abs/2608.16025)).
+
+**Oct 2026:** We submitted a new paper, titled "Fluid Mixing and Incompressible Optimal Transport", to the Journal of Nonlinear Science ([preprint](https://arxiv.org/abs/2610.09235)).
+
+**Aug 2026:** We submitted a new paper, titled "On Distributed Control of Continuum Swarms: Local Controllers as Differential Operators", to the IEEE Transactions on Automatic Control ([preprint](https://arxiv.org/abs/2604.25187)).
+
+**Aug 2026:** I presented a talk at the 27th International Symposium on Mathematical Theory of Networks and Systems titled "Wasserstein Gradient Flow Structure in Mean-Field Oscillator Ising Machines" ([slides](../files/MTNS_26_slides.pdf)).
 
 **Dec 2025:** I presented our paper "Incompressible Optimal Transport and Applications in Fluid Mixing" at the 64th IEEE Conference on Decision and Control ([slides](../files/CDC_25_slides.pdf)).
 
-**Aug 2025** I began serving as a Graduate Fellowship Writing Consultant for the UCSB Mechanical Engineering Department.
+**Aug 2025:** I began serving as a Graduate Fellowship Writing Consultant for the UCSB Mechanical Engineering Department.
 
 **Jul 2025:** I presented a talk at the 2025 SIAM Conference on Control and Its Applications titled "Tracking Control in the Wasserstein Space" ([slides](../files/SIAM_25_slides.pdf)).
 
@@ -36,7 +42,7 @@ News & Preprints
 
 **Mar 2025:** We submitted a new paper, titled "Incompressible Optimal Transport and Applications in Fluid Mixing", to the 64th IEEE Conference on Decision and Control ([preprint](https://arxiv.org/abs/2504.01109)).
 
-**Dec 2024:** I presented our paper "Causal Tracking of Distributions in Wasserstein Space: A Model Predictive Control Scheme" at the 63rd IEEE Conference on Decision and Control ([slides](../files/CDC_24_slides.pdf)).
+**Dec 2024:** I presented our paper "Causal Tracking of Distributions in Wasserstein Space: A Model-Predictive Control Scheme" at the 63rd IEEE Conference on Decision and Control ([slides](../files/CDC_24_slides.pdf)).
 
 **Nov 2024:** I presented a talk at the 44th Southern California Control Workshop titled "Tracking Control in the Wasserstein Space" ([slides](../files/SCC_F24.pdf)).
 
