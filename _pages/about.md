@@ -22,7 +22,7 @@ In my free time, I enjoy rock climbing, surfing, mountain biking, backpacking, t
 
 News & Preprints
 ----------
-**Oct 2026:** I presented a talk at the 48th Southern California Control Workshop titled "Mean-Field Oscillator Ising Machines" ([slides](../files/name.pdf)).
+**Oct 2026:** I presented a talk at the 48th Southern California Control Workshop titled "Mean-Field Oscillator Ising Machines" ([slides](../files/SCC_26_slides.pdf)).
 
 **Oct 2026:** We submitted a new paper, titled "Mean-Field Oscillator Ising Machines: Gradient Flows and Classification of Limit Solutions", to the SIAM Journal on Applied Dynamical Systems ([preprint](https://arxiv.org/abs/2608.16025)).
 
